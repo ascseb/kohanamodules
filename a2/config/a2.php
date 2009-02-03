@@ -1,5 +1,5 @@
 <?php
-
+//test/
 /*
  * The Authentication library to use
  * Make sure that the library supports a get_user method that returns FALSE when no user is logged in
